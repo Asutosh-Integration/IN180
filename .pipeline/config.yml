@@ -1,0 +1,13 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    integrationFlowId: asutoshmaharana23-flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    integrationFlowId: asutoshmaharana23-flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    integrationFlowId: asutoshmaharana23-flow4
+    integrationFlowName: asutoshmaharana23-flow4
+    packageId: CICD
+    filePath: asutoshmaharana23-flow4.zip
